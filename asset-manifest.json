@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react_Holin_teach_todolist/static/css/main.bbb7ffbe.css",
+    "main.js": "/react_Holin_teach_todolist/static/js/main.d93fd488.js",
+    "index.html": "/react_Holin_teach_todolist/index.html",
+    "main.bbb7ffbe.css.map": "/react_Holin_teach_todolist/static/css/main.bbb7ffbe.css.map",
+    "main.d93fd488.js.map": "/react_Holin_teach_todolist/static/js/main.d93fd488.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bbb7ffbe.css",
+    "static/js/main.d93fd488.js"
+  ]
+}
